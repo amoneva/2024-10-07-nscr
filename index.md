@@ -255,12 +255,12 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+{% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is limited to 30 participants. Affiliates of NSCR, VU, EUR, and Lectorate CCCS of THUAS will be given priority, in order of registration. If seats are still available, they will be open to the public on a first-come, first-served basis until full capacity is reached. 
 </p>
-{% endcomment %}
+
 
 <hr/>
 
