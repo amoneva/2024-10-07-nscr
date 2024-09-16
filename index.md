@@ -258,7 +258,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is limited to 25 participants. Members of PhDs in Criminology and affiliates of NSCR, VU, EUR, and Lectorate CCCS of THUAS will be given priority, in order of registration. If seats are still available, they will be open to the public on a first-come, first-served basis until full capacity is reached. 
+    This workshop is limited to 25 participants. Members of PhDs in Criminology and affiliates of NSCR, VU, EUR, and Lectorate CCCS of THUAS will be given priority, in order of registration. If seats are still available, they will be open to the public on a first-come, first-served basis until full capacity is reached. <i>Participants will receive a certificate of attendance as well as 1.5 ECs (European Credits) upon successful completion of the course.</i>
 </p>
 
 
